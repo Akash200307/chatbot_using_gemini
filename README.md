@@ -1,4 +1,3 @@
-To generate a README for your GitHub project based on the provided code snippet, you can create a concise and informative document that includes essential information for users and potential contributors. Here’s an example README based on your code:
 
 ---
 
